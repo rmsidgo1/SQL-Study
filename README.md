@@ -1,6 +1,6 @@
-# :star**2024 SVP 2주차 자기주도 학습**:star:  
+# :star:2024 SVP 2주차 자기주도 학습:star:  
 
-# Oracle SQL Study
+# Oracle SQL Study 📁
 > Oracle SQL 공부 내용 정리 및 실습 코드 저장을 위해 작성한 프로젝트입니다.
 
 ## 사용 기술
@@ -18,4 +18,12 @@ Repository에 포함되어 있습니다.
 
 Oracle 18C, SQL Developer
 
-## 정보
+## 학습 방향
+1️⃣ 이수안컴퓨터연구소 Youtube - MySQL tutorial [🔗](https://www.youtube.com/watch?v=vgIc4ctNFbc&list=PL7ZVZgsnLwEGjReAO-qJtQiJB6e2MJ0ud) `2024.08.16` ~ `현재 진행중`
+
+2️⃣ Mode SQL tutorial [🔗](https://mode.com/sql-tutorial/intro-to-intermediate-sql/)
+
+3️⃣ SQL 문제 풀이
+    
+    - Programmers SQL 고득점 키트
+    - HackerRank
