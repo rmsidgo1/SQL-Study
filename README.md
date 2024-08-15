@@ -1,4 +1,4 @@
-:star:**2024 SVP 2주차 자기주도 학습**:star:  
+:star2024 SVP 2주차 자기주도 학습**:star:  
 
 # Oracle SQL Study
 > Oracle SQL 공부 내용 정리 및 실습 코드 저장을 위해 작성한 프로젝트입니다.
